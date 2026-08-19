@@ -8,7 +8,6 @@ def pct(numerator, denominator):
         return 0.0
     return numerator / denominator * 100
 
-
 def main():
 
     # ---------------------------------------------------------
